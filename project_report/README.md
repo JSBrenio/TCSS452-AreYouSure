@@ -50,10 +50,19 @@ Old experienced users of Synchro had to import map data from third-party service
 
 ## Design Research and Key Insights
 
-### Research Process Summary
-- **Goals:** [Goals of your research]
-- **Methods:** [Methods used and participants involved]
-- **Rationale:** [Rationale for your choices]
+### Goals
+Through our design research and collaboration with the TCE 327 Civil Engineering students, we aimed to gain insight and identify usability challenges using Synchro Studio.
+
+### Methods and Rationale
+For our design research methods, we intended to use **contextual inquiry** and conduct **focus groups**. We thought this was the most effective way of obtaining data for the project. **Contextual inquiry** involves observing and asking questions to users in their actual work environment to understand their workflows and challenges. **Focus groups** gather a small group (2 - 5) of participants to discuss their experiences and opinions, providing diverse perspectives and uncovering common issues.
+
+But we’ve encountered **two** main challenges and had to adapt. 
+
+**First**, the class structure consisted of the students following a walkthrough with an industry lecturer. This made it difficult to inquire and ask questions without disturbing the lecture, so we had to pivot to **Fly-on-the-wall** observations, where we observe the whole class without interruption and note emerging themes.
+
+**Second**, we had difficulties with scheduling with the TCE students and getting more than one participant for a given day for our focus group. So we had to switch to **interviews** instead, which set us behind a few weeks for the project. 
+
+But despite that, we were still able to obtain valuable data and insight.
 
 ### Key Insights
 
