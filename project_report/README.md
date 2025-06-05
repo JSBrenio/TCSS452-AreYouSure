@@ -12,7 +12,11 @@ Enhancing Clarity for Future Traffic Engineers
 
 ## Problem and Design Overview
 
-[Provide a concise description of the problem your project addresses]
+  This project attempts to address the initial friction of using Synchro as a beginner. From User Research, the most prominent issue arising from interacting with the software, as a new user, was the overload of different buttons, options, and settings within the interface. There were also redundancies evident within the 
+  
+  The new design laid out encapsulate the two most common tasks that users must perform within the software on a day-to-day basis:
+  
+  Ultimately, this change aims to alleviate the decision fatigue from too much "clutter" within the current iteration of the software, while streamlining the process of getting to the "meat" of the workflow.
 
 [Brief overview of your design and approach to solving the problem]
 
@@ -89,13 +93,12 @@ Enhancing Clarity for Future Traffic Engineers
 ## Technical and Soft Skills Gained
 
 ### Technical Skills
-- [e.g., Figma]
-- [e.g., Wireframing]
-- [e.g., Usability testing]
-- [e.g., Mockup tools]
+- Figma
+- Usability Testing
+- Mockup Tools
 
 ### Soft Skills
-- [e.g., Collaboration]
-- [e.g., Feedback integration]
-- [e.g., Time management]
+- Collaboration
+- Feedback Integration
+- Time Management
 
