@@ -1,7 +1,7 @@
 # Synchro Simplified
 Enhancing Clarity for Future Traffic Engineers
 
-![Logo](images/logo.png)
+<img src="images/logo.png" alt="Logo" width="200"/>
 
 **Team: TCSS452-AreYouSure**
 - Anthony Petrov
