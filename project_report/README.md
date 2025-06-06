@@ -40,7 +40,7 @@ Enhancing Clarity for Future Traffic Engineers
 
 ### 1: Completing Intersections with Traffic Data for Analysis
 
-**Task Context:** [What this task is and why it matters]
+**Task Context:**
 Adding data to roads & intersections is essential for analysis and simulation. For any given intersection, a user needs to navigate to more than one menu to complete their goal.
 
 ![Current Synchro UI lanes/volumes/timing Visuals](images/synchro-ui-menus-1.png)
@@ -60,12 +60,26 @@ When an intersection is made, a button will appear at the center. When the user 
 
 ### 2: Importing Map Data into Synchro
 
-**Task Context:** [What this task is and why it matters]
+**Task Context:**
 Old experienced users of Synchro had to import map data from third-party services such as Google maps in order to scale their roads correctly onto the UI. The new version of Synchro tries to fix this by integrating Bing maps into Synchro. But we wanted to keep the familiarity and routine for new and old users by adding overlays and further integration with other third-party services.
 
-![Task 2 Visual](path/to/task2-image.png)
+**Redesign**:
+![Task 2-1 Visual](images/digital-prototype-task-2-new-1.png)
+
+![Task 2-2 Visual](images/digital-prototype-task-2-new-2.png)
+
+<div style="display: flex; gap: 16px;">
+  <img src="images/digital-prototype-task-2-new-3.png" alt="Task 2-3 Visual" style="width: 48%;">
+  <img src="images/digital-prototype-task-2-new-4.png" alt="Task 2-4 Visual" style="width: 48%;">
+</div>
+
+<br>
+
+![Task 2-5 Visual](images/digital-prototype-task-2-new-5.png)
+
 
 [Narrative walkthrough for Task 2 - provide enough detail for an outside reader to understand the design]
+
 
 ## Design Research and Key Insights
 
