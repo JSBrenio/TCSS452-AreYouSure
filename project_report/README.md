@@ -25,8 +25,11 @@ Enhancing Clarity for Future Traffic Engineers
 
 #### The current design
 
-<img src="images/synchro-lane-settings.png">
-<>
+<div style="display: flex; gap: 16px;">
+  <img src="images/digital-prototype-task-1-new-2.png" style="width: 48%;">
+  <img src="images/synchro-lane-settings.png" style="width: 48%;">
+</div>
+
   Ultimately, these changes aim to alleviate the decision fatigue from too much "clutter" within the current iteration of the software, while streamlining the process of getting to the "meat" of the workflow.
 
 [Brief overview of your design and approach to solving the problem]
