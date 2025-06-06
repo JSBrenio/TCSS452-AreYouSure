@@ -13,7 +13,7 @@ Enhancing Clarity for Future Traffic Engineers
 ## Problem and Design Overview
   Synchro Studio, a transportation and traffic network application created by Cubic, has a steep learning curve and its current user interface (UI) challenges aspiring Civil Engineering students and users alike.
   
-  This project attempts to address the initial friction of using Synchro as a beginner. From User Research, the most prominent issue arising from interacting with the software, as a new user, was the overload of different buttons, options, and settings within the interface. There were also redundancies evident within the 
+  This project attempts to address the initial friction of using Synchro as a beginner. From User Research, the most prominent issue arising from interacting with the software, as a new user, was the overload of different buttons, options, and settings within the interface.
   
   The new design laid out encapsulate the two most common tasks that users must perform within the software on a day-to-day basis:
   
@@ -21,7 +21,7 @@ Enhancing Clarity for Future Traffic Engineers
 
 [Brief overview of your design and approach to solving the problem]
 
-![Introductory Image](path/to/intro-image.png) <!-- Your logo or initial prototype photo -->
+![Introductory Image](images/logo.png) <!-- Your logo or initial prototype photo -->
 
 ## Design Walkthrough
 
