@@ -17,9 +17,16 @@ Enhancing Clarity for Future Traffic Engineers
   
   The new design laid out encapsulate the two most common tasks that users must perform within the software on a day-to-day basis:
   
-  - Adding Links and Lane data
+### Adding Links and Lane data
+
+#### The proposed redesign 
+
 <img src="images/digital-prototype-task-1-new-2.png">
-  
+
+#### The current design
+
+<img src="images/synchro-lane-settings.png">
+<>
   Ultimately, these changes aim to alleviate the decision fatigue from too much "clutter" within the current iteration of the software, while streamlining the process of getting to the "meat" of the workflow.
 
 [Brief overview of your design and approach to solving the problem]
