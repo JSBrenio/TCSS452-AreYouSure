@@ -17,11 +17,14 @@ Enhancing Clarity for Future Traffic Engineers
   
   The new design laid out encapsulate the two most common tasks that users must perform within the software on a day-to-day basis:
   
-  Ultimately, this change aims to alleviate the decision fatigue from too much "clutter" within the current iteration of the software, while streamlining the process of getting to the "meat" of the workflow.
+  - Adding Links and Lane data
+      images/digital-prototype-task-1-new-2.png
+  
+  Ultimately, these changes aim to alleviate the decision fatigue from too much "clutter" within the current iteration of the software, while streamlining the process of getting to the "meat" of the workflow.
 
 [Brief overview of your design and approach to solving the problem]
 
-![Introductory Image](images/logo.png) <!-- Your logo or initial prototype photo -->
+![Introductory Image](images/digital-prototype-task-2-new-4.png) <!-- Your logo or initial prototype photo -->
 
 ## Design Walkthrough
 
