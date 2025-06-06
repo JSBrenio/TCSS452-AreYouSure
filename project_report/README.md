@@ -43,11 +43,12 @@ Enhancing Clarity for Future Traffic Engineers
 **Task Context:** [What this task is and why it matters]
 Adding data to roads & intersections is essential for analysis and simulation. For any given intersection, a user needs to navigate to more than one menu to complete their goal.
 
-![Current Synchro UI lanes/volumes/timing Visuals](path/to/task1-image.png)
+![Current Synchro UI lanes/volumes/timing Visuals](images/synchro-ui-menus-1.png)
 
 This introduces navigation challenges to new users of Synchro, and it doesn't help that multiple of the same settings can be found in different menus, lacking distinction.
 
-![Task 1 Visual](path/to/task1-image.png)
+**Redesign**:
+![Task 1 Visual](images/digital-prototype-task-1-new-1.png)
 
 [Narrative walkthrough for Task 1 - provide enough detail for an outside reader to understand the design]
 This holistic design 
@@ -123,12 +124,45 @@ But despite that, we were still able to obtain valuable data and insight.
 ## Technical and Soft Skills Gained
 
 ### Technical Skills
-- Figma
-- Usability Testing
-- Mockup Tools
+- Design Principles
+  - Learnability
+  - Efficiency
+  - Safety
+- Low-Fidelity Prototyping
+  - Rapid prototyping
+  - Design sketches
+  - Paper prototypes
+- High-Fidelity Prototyping
+  - Figma
+  - Digital mockups
+- Evaluation Methods
+  - Usability testing
+  - Heuristic evaluating
+
 
 ### Soft Skills
-- Collaboration
+- Team Collaboration
+  - Cross-functional coordination
+  - Task delegation
+  - Conflict resolution
+  - Remote collaboration
+- Communication
+  - Active listening
+  - Presenting concepts
+  - Technical documentation
+  - Facilitating discussions
 - Feedback Integration
+  - Processing criticism
+  - Peer review incorporation
+- Adaptability
+  - Method pivoting
+  - Schedule adjustments
 - Time Management
+  - Deadline coordination
+  - Priority setting
+  - Milestone tracking
+- Research Skills
+  - User interviewing
+  - Pattern identification
+  - Insight translation
 
