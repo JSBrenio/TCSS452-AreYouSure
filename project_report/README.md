@@ -48,10 +48,15 @@ Adding data to roads & intersections is essential for analysis and simulation. F
 This introduces navigation challenges to new users of Synchro, and it doesn't help that multiple of the same settings can be found in different menus, lacking distinction.
 
 **Redesign**:
-![Task 1 Visual](images/digital-prototype-task-1-new-1.png)
+![Task 1-1 Visual](images/digital-prototype-task-1-new-1.png)
 
-[Narrative walkthrough for Task 1 - provide enough detail for an outside reader to understand the design]
-This holistic design 
+![Task 1-2 Visual](images/digital-prototype-task-1-new-2.png)
+
+![Task 1-3 Visual](images/digital-prototype-task-1-new-3.png)
+
+This holistic design hopes to mitigate the navigation issue by incoporating popups for each road to be worked on.
+
+When an intersection is made, a button will appear at the center. When the user clicks on the button, menus for each road will popup with relevant the settings - there's also the option to add new row settings for all menus via the plus icon at the bottom-left.
 
 ### 2: Importing Map Data into Synchro
 
