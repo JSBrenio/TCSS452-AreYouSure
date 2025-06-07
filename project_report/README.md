@@ -121,24 +121,44 @@ But despite that, we were still able to obtain valuable data and insight.
 - **Digital Mockups → Heuristic Testing**
 - **Rationale/Reflections:** [What this process revealed]
 
-![Paper Prototype](path/to/paper-prototype.png)
+### Paper Prototype
+![image](https://github.com/user-attachments/assets/0c97c5d1-b4c7-4fa4-a889-010f48f42cc9)
+![image](https://github.com/user-attachments/assets/ec550d7a-fd00-433f-8765-462d19061a10)
+![image](https://github.com/user-attachments/assets/35bafd76-9d50-4fff-9e10-3f63f0c91250)
+
+
 
 ### Design Insights from Iteration
 
-#### **[Design Insight 1]**
-- **How it emerged:** [Description of emergence]
-- **Evidence:** [Quotes, observations, or images]
-- **Design changes:** [Before/after changes]
+#### **Adding Lane Button Clear**
+- **How it emerged:** One of the groups reviewed our Digital Prototype using the Heuristic Evaulation and found it difficult to identify
+the add lane button.
+- **Evidence:** The group typed up, "Adding actual lanes is slightly unclear due
+to language used (i.e basic symbols).
+Because the lane adding was unclear, the
+exit button was also a little unclear."
+- **Design changes:** Before: ![image](https://github.com/user-attachments/assets/d41c8006-f061-446a-9f61-bace0dda8db8)
+ After: ![image](https://github.com/user-attachments/assets/80ddde5e-5af8-43f6-8c86-fdf096d4efd4)
 
-#### **[Design Insight 2]**
-- **How it emerged:** [Description of emergence]
-- **Evidence:** [Quotes, observations, or images]
-- **Design changes:** [Before/after changes]
 
-#### **[Design Insight 3]**
-- **How it emerged:** [Description of emergence]
-- **Evidence:** [Quotes, observations, or images]
-- **Design changes:** [Before/after changes]
+#### **Making Each Road Selectable**
+- **How it emerged:** Heuristic Evaulation from the group evulation had a hard time trying to have the individual roads be selected. 
+- **Evidence:** The group said, "The selection is based around
+intersections, so if I am working on a road
+I have to find the nearest intersection in
+order to select the road. This makes
+knowing when roads are able to be
+selected confusing."
+- **Design changes:** Before: ![image](https://github.com/user-attachments/assets/44173767-b30f-4b44-a293-33bf9cfc9fa2)
+After: ![image](https://github.com/user-attachments/assets/fff70eb7-2b4f-4982-b1fa-731ac51bb62b)
+
+
+#### **Add Description For Buttons**
+- **How it emerged:** During our usability testing for our Paper Prototype, the participants had difficulty figuring out what certain buttons did.
+- **Evidence:** From our observations during our usability testing, the participant mentioned they couldn't understand what the button does as there was not description.
+- **Design changes:** Before: ![image](https://github.com/user-attachments/assets/f1f8cdce-1633-4153-b9db-ce9e67b56e9c)
+After: ![image](https://github.com/user-attachments/assets/a41da2b1-9990-4f8f-9101-3e222e07c65f)
+
 
 ## Technical and Soft Skills Gained
 
