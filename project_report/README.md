@@ -118,8 +118,10 @@ But despite that, we were still able to obtain valuable data and insight.
 
 ### Design Process Summary
 - **Paper Prototyping → Usability Testing**
+When we started working on paper prototype we tried our best to focus on simplifying the lane parameters and making it easy for the user to be able to not feel overwhelmed with the parameters. We also kept in mind that we were also trying to make adding lanes more easy and simplified for the users. Also during the making of our paper prototype we tried making the icons drawings as distiguishable as we could so the user did not need to question what certain icons did. During our usability testing, we found that the participants found it difficult to know what certain buttons did and they thought adding a description should be necessary so that things would not be confusing. We did find that the particpants did find making intersections easier, however adding lanes button was not clear to the particpant. We also found that the participants were having a hard time when lane parameter menu was selected.
 - **Digital Mockups → Heuristic Testing**
-- **Rationale/Reflections:** [What this process revealed]
+- **Rationale/Reflections:** 
+What this process revealed is that it is not easy to design a product, as users could find it difficult to know what certain things do. Where we thought the user would have an easier time to do a certain task, was actually difficult for them to do. This type of feedback helped us fix our designs so that users have an easier time doing tasks. This iterative process also revealed users like simplicity, descriptions to help understand what certain buttons do, and also visual clarity. These types of feedback helped us make our final design more easier to use. 
 
 ### Paper Prototype
 ![image](https://github.com/user-attachments/assets/ce0e5cf5-f11d-44cf-a683-947ad28048a3)
