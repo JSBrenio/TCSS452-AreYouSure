@@ -122,7 +122,7 @@ But despite that, we were still able to obtain valuable data and insight.
 - **Rationale/Reflections:** [What this process revealed]
 
 ### Paper Prototype
-![image](https://github.com/user-attachments/assets/0c97c5d1-b4c7-4fa4-a889-010f48f42cc9)
+![image](https://github.com/user-attachments/assets/ce0e5cf5-f11d-44cf-a683-947ad28048a3)
 ![image](https://github.com/user-attachments/assets/ec550d7a-fd00-433f-8765-462d19061a10)
 ![image](https://github.com/user-attachments/assets/35bafd76-9d50-4fff-9e10-3f63f0c91250)
 
