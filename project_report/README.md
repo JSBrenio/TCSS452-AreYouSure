@@ -3,7 +3,7 @@ Enhancing Clarity for Future Traffic Engineers
 
 <img src="images/logo.png" alt="Logo" width="300"/>
 
-**Team: TCSS452-AreYouSure?**
+**TCSS 452 Team: Are You Sure?**
 - Anthony Petrov
 - Jennifer Huynh
 - Jeremiah Brenio
@@ -11,30 +11,21 @@ Enhancing Clarity for Future Traffic Engineers
 - Luke Chung
 
 ## Problem and Design Overview
-  Synchro Studio, a transportation and traffic network application created by Cubic, has a steep learning curve and its current user interface (UI) challenges aspiring Civil Engineering students and users alike.
+  Synchro Studio, a transportation and traffic network application developed by Cubic, presents a steep learning curve in its current user interface (UI), challenging aspiring Civil Engineering students and users alike.
   
   This project attempts to address the initial friction of using Synchro as a beginner. From User Research, the most prominent issue arising from interacting with the software, as a new user, was the overload of different buttons, options, and settings within the interface.
   
   The new design laid out encapsulate the two most common tasks that users must perform within the software on a day-to-day basis:
-  
-### Adding Links and Lane data
 
-#### The proposed redesign 
+### The Proposed Redesign 
+![Redesign Image 1](images/digital-prototype-task-1-new-2.png)  
+*Figure 1: Redesigned interface for adding links and lane data, highlighting simplified controls and improved layout.*
 
-<img src="images/digital-prototype-task-1-new-2.png">
+![Redesign Image 2](images/digital-prototype-task-2-new-2.png)  
+*Figure 2: Enhanced map data import workflow, showing integration with third-party services for better usability.*
 
-#### The current design
-
-<div style="display: flex; gap: 16px;">
-  <img src="images/digital-prototype-task-1-new-2.png" style="width: 48%;">
-  <img src="images/synchro-lane-settings.png" style="width: 48%;">
-</div>
-
-  Ultimately, these changes aim to alleviate the decision fatigue from too much "clutter" within the current iteration of the software, while streamlining the process of getting to the "meat" of the workflow.
-
-[Brief overview of your design and approach to solving the problem]
-
-![Introductory Image](images/digital-prototype-task-2-new-4.png) <!-- Your logo or initial prototype photo -->
+### Our Approach
+Ultimately, these changes are designed to reduce decision fatigue caused by excessive interface clutter in the current software. By streamlining navigation and focusing on core workflows, our redesign helps users quickly access essential features and complete tasks more efficiently.
 
 ## Design Walkthrough
 
@@ -46,27 +37,42 @@ Adding data to roads & intersections is essential for analysis and simulation. F
 ![Current Synchro UI lanes/volumes/timing Visuals](images/synchro-ui-menus-1.png)
 
 This introduces navigation challenges to new users of Synchro, and it doesn't help that multiple of the same settings can be found in different menus, lacking distinction.
+### Redesign Walkthrough
 
-**Redesign**:
+When an intersection is created, a button appears at the center. Clicking this button opens menus for each road, allowing users to access relevant settings directly.
+
 ![Task 1-1 Visual](images/digital-prototype-task-1-new-1.png)
+
+Each menu pops up as an overlay, reducing the need to navigate through multiple menus and making it easier to focus on the current task.
 
 ![Task 1-2 Visual](images/digital-prototype-task-1-new-2.png)
 
+Users can add new row settings for all menus using the plus icon at the bottom-left, streamlining the process of entering and editing data.
+
 ![Task 1-3 Visual](images/digital-prototype-task-1-new-3.png)
 
-This holistic design hopes to mitigate the navigation issue by incoporating popups for each road to be worked on.
-
-When an intersection is made, a button will appear at the center. When the user clicks on the button, menus for each road will popup with relevant the settings - there's also the option to add new row settings for all menus via the plus icon at the bottom-left.
+This holistic design aims to mitigate navigation issues by incorporating contextual popups for each road, helping users work more efficiently and with less confusion.
 
 ### 2: Importing Map Data into Synchro
 
 **Task Context:**
 Old experienced users of Synchro had to import map data from third-party services such as Google maps in order to scale their roads correctly onto the UI. The new version of Synchro tries to fix this by integrating Bing maps into Synchro. But we wanted to keep the familiarity and routine for new and old users by adding overlays and further integration with other third-party services.
+### Redesign Walkthrough
 
-**Redesign**:
+The redesigned workflow for importing map data into Synchro focuses on clarity, integration, and ease of use for both new and experienced users.
+
+We use an import button (directly in the top middle of the interface) for the user to begin the import process.
 ![Task 2-1 Visual](images/digital-prototype-task-2-new-1.png)
 
+The import screen presents clear options for importing map data, reducing confusion and guiding users toward the most common actions.
+
+Next, users can select from integrated third-party services, such as Google Maps or Bing Maps, to import their desired map data:
+
 ![Task 2-2 Visual](images/digital-prototype-task-2-new-2.png)
+
+This integration maintains familiarity for experienced users while offering streamlined access for newcomers.
+
+The user can then add roads (top left button) on the map overlay, which would then be transferred to Synchro after finalizing their links.
 
 <div style="display: flex; gap: 16px;">
   <img src="images/digital-prototype-task-2-new-3.png" alt="Task 2-3 Visual" style="width: 48%;">
@@ -75,10 +81,11 @@ Old experienced users of Synchro had to import map data from third-party service
 
 <br>
 
+Once satisfied, users can confirm their selections and complete the import process:
+
 ![Task 2-5 Visual](images/digital-prototype-task-2-new-5.png)
 
-
-[Narrative walkthrough for Task 2 - provide enough detail for an outside reader to understand the design]
+This redesign addresses the previous challenges of fragmented workflows and providing visual guidance throughout the process. The result is a more approachable, efficient, and user-friendly experience that accommodates the needs of both novice and experienced Synchro users.
 
 
 ## Design Research and Key Insights
