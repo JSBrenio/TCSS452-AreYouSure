@@ -1,14 +1,17 @@
-# Synchro Simplified
-Enhancing Clarity for Future Traffic Engineers
+<h1 align="center">Synchro Simplified</h1>
 
-<img src="images/logo.png" alt="Logo" width="300"/>
+<p align="center">
+  <img src="images/logo.png" alt="Logo" width="200"/>
+  <br>
+  <i>Enhancing Clarity for Future Traffic Engineers</i>
+</p>
 
-**TCSS 452 Team: Are You Sure?**
-- Anthony Petrov
-- Jennifer Huynh
-- Jeremiah Brenio
-- Liam Barragan
-- Luke Chung
+---
+
+**TCSS 452 Team: Are You Sure?**  
+Anthony Petrov • Jennifer Huynh • Jeremiah Brenio • Liam Barragan • Luke Chung
+
+---
 
 ## Problem and Design Overview
   Synchro Studio, a transportation and traffic network application developed by Cubic, presents a steep learning curve in its current user interface (UI), challenging aspiring Civil Engineering students and users alike.
