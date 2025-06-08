@@ -13,9 +13,9 @@ Enhancing Clarity for Future Traffic Engineers
 ## Problem and Design Overview
   Synchro Studio, a transportation and traffic network application developed by Cubic, presents a steep learning curve in its current user interface (UI), challenging aspiring Civil Engineering students and users alike.
   
-  This project attempts to address the initial friction of using Synchro as a beginner. From User Research, the most prominent issue arising from interacting with the software, as a new user, was the overload of different buttons, options, and settings within the interface.
+  This project attempts to address the initial friction of using Synchro as a beginner. From user research, the most prominent issue arising from interacting with the software, as a new user, was the overload of different buttons, options, and settings within the interface.
   
-  The new design laid out encapsulate the two most common tasks that users must perform within the software on a day-to-day basis:
+  The new design laid out encapsulates the two most common tasks that users must perform within the software on a day-to-day basis:
 
 ### The Proposed Redesign 
 ![Redesign Image 1](images/digital-prototype-task-1-new-2.png)  
@@ -56,7 +56,7 @@ This holistic design aims to mitigate navigation issues by incorporating context
 ### 2: Importing Map Data into Synchro
 
 **Task Context:**
-Old experienced users of Synchro had to import map data from third-party services such as Google maps in order to scale their roads correctly onto the UI. The new version of Synchro tries to fix this by integrating Bing maps into Synchro. But we wanted to keep the familiarity and routine for new and old users by adding overlays and further integration with other third-party services.
+Previously experienced users of Synchro had to import map data from third-party services such as Google Maps in order to scale their roads correctly onto the UI. The new version of Synchro tries to fix this by integrating Bing Maps into Synchro. But we wanted to keep the familiarity and routine for new and old users by adding overlays and further integration with other third-party services.
 ### Redesign Walkthrough
 
 The redesigned workflow for importing map data into Synchro focuses on clarity, integration, and ease of use for both new and experienced users.
@@ -125,10 +125,10 @@ But despite that, we were still able to obtain valuable data and insight.
 
 ### Design Process Summary
 - **Paper Prototyping → Usability Testing**
-When we started working on paper prototype we tried our best to focus on simplifying the lane parameters and making it easy for the user to be able to not feel overwhelmed with the parameters. We also kept in mind that we were also trying to make adding lanes more easy and simplified for the users. Also during the making of our paper prototype we tried making the icons drawings as distiguishable as we could so the user did not need to question what certain icons did. During our usability testing, we found that the participants found it difficult to know what certain buttons did and they thought adding a description should be necessary so that things would not be confusing. We did find that the particpants did find making intersections easier, however adding lanes button was not clear to the particpant. We also found that the participants were having a hard time when lane parameter menu was selected.
+When we started working on paper prototype, we tried our best to focus on simplifying the lane parameters and making it easy for the user to be able to not feel overwhelmed with the parameters. We also kept in mind that we were also trying to make adding lanes easier and simpler for the users. Also, during the making of our paper prototype we tried making the icons drawings as distinguishable as we could so the user did not need to question what certain icons did. During our usability testing, we found that the participants found it difficult to know what certain buttons did and they thought adding a description should be necessary so that things would not be confusing. We did find that the participants did find making intersections easier, however, adding lanes button was not clear to the particpant. We also found that the participants were having a hard time when lane parameter menu was selected.
 - **Digital Mockups → Heuristic Testing**
 - **Rationale/Reflections:** 
-What this process revealed is that it is not easy to design a product, as users could find it difficult to know what certain things do. Where we thought the user would have an easier time to do a certain task, was actually difficult for them to do. This type of feedback helped us fix our designs so that users have an easier time doing tasks. This iterative process also revealed users like simplicity, descriptions to help understand what certain buttons do, and also visual clarity. These types of feedback helped us make our final design more easier to use. 
+What this process revealed is that it is not easy to design a product, as users could find it difficult to know what certain things do. Where we thought the user would have an easier time doing a certain task, it was actually difficult for them to do. This type of feedback helped us fix our designs so that users have an easier time doing tasks. This iterative process also revealed that users like simplicity, descriptions to help understand what certain buttons do, and also visual clarity. These types of feedback helped us make our final design easier to use. 
 
 ### Paper Prototype
 ![image](https://github.com/user-attachments/assets/ce0e5cf5-f11d-44cf-a683-947ad28048a3)
@@ -139,7 +139,7 @@ What this process revealed is that it is not easy to design a product, as users 
 
 ### Design Insights from Iteration
 
-#### **Adding Lane Button Clear**
+#### **Adding Lane Button Clarity**
 - **How it emerged:** One of the groups reviewed our Digital Prototype using the Heuristic Evaulation and found it difficult to identify
 the add lane button.
 - **Evidence:** The group typed up, "Adding actual lanes is slightly unclear due
@@ -151,7 +151,7 @@ exit button was also a little unclear."
 
 
 #### **Making Each Road Selectable**
-- **How it emerged:** Heuristic Evaulation from the group evulation had a hard time trying to have the individual roads be selected. 
+- **How it emerged:** Heuristic Evaluation from the group evulation had a hard time trying to have the individual roads be selected. 
 - **Evidence:** The group said, "The selection is based around
 intersections, so if I am working on a road
 I have to find the nearest intersection in
