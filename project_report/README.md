@@ -131,9 +131,9 @@ When we started working on paper prototype, we tried our best to focus on simpli
 What this process revealed is that it is not easy to design a product, as users could find it difficult to know what certain things do. Where we thought the user would have an easier time doing a certain task, it was actually difficult for them to do. This type of feedback helped us fix our designs so that users have an easier time doing tasks. This iterative process also revealed that users like simplicity, descriptions to help understand what certain buttons do, and also visual clarity. These types of feedback helped us make our final design easier to use. 
 
 ### Paper Prototype
-![image](https://github.com/user-attachments/assets/ce0e5cf5-f11d-44cf-a683-947ad28048a3)
-![image](https://github.com/user-attachments/assets/ec550d7a-fd00-433f-8765-462d19061a10)
-![image](https://github.com/user-attachments/assets/35bafd76-9d50-4fff-9e10-3f63f0c91250)
+![Paper Prototype 1 Improved](images/paper-prototype-task-1-improved-1.png)
+![Paper Prototype 2 Improved-1](images/paper-prototype-task-2-improved-1.png)
+![Paper Prototype 2 Improved-2](images/paper-prototype-task-2-improved-2.png)
 
 
 
@@ -146,8 +146,11 @@ the add lane button.
 to language used (i.e basic symbols).
 Because the lane adding was unclear, the
 exit button was also a little unclear."
-- **Design changes:** Before: ![image](https://github.com/user-attachments/assets/d41c8006-f061-446a-9f61-bace0dda8db8)
- After: ![image](https://github.com/user-attachments/assets/80ddde5e-5af8-43f6-8c86-fdf096d4efd4)
+- **Design changes:** 
+Before: 
+![Task 1-1 Visual Before](images/digital-prototype-task-1-old-1.png)
+After: 
+![Task 1-1 Visual After](images/digital-prototype-task-1-new-1.png)
 
 
 #### **Making Each Road Selectable**
@@ -158,17 +161,21 @@ I have to find the nearest intersection in
 order to select the road. This makes
 knowing when roads are able to be
 selected confusing."
-- **Design changes:** Before: ![image](https://github.com/user-attachments/assets/44173767-b30f-4b44-a293-33bf9cfc9fa2)
-After: ![image](https://github.com/user-attachments/assets/fff70eb7-2b4f-4982-b1fa-731ac51bb62b)
+- **Design changes:** 
+Before:
+![Task 1-2 Visual Before](images/digital-prototype-task-1-old-2.png)
+After:
+![Task 1-2 Visual After](images/digital-prototype-task-1-new-3.png)
 
 
 #### **Add Description For Buttons**
 - **How it emerged:** During our usability testing for our Paper Prototype, the participants had difficulty figuring out what certain buttons did.
 - **Evidence:** From our observations during our usability testing, the participant mentioned they couldn't understand what the button does as there was not description.
-- **Design changes:** Before: ![image](https://github.com/user-attachments/assets/f1f8cdce-1633-4153-b9db-ce9e67b56e9c)
-After: ![image](https://github.com/user-attachments/assets/a41da2b1-9990-4f8f-9101-3e222e07c65f)
-
-
+- **Design changes:** 
+Before:
+![Paper Prototype 1 Improved](images/paper-prototype-task-1-improved-1.png)
+After:
+![Task 1-1 Visual Improved](images/digital-prototype-task-1-new-1.png)
 ## Technical and Soft Skills Gained
 
 ### Technical Skills
