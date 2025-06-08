@@ -79,20 +79,20 @@ But despite that, we were still able to obtain valuable data and insight.
 
 ### Key Insights
 
-#### **[Insight 1 Title/Statement]**
-- **How it emerged:** [From users, critique, testing, etc.]
-- **Evidence:** [Visuals, evidence, or stories]
-- **Design influence:** [How this influenced your final design]
+#### **Overwhelming UI & Infromation Overload for New Users**
+- **How it emerged:** Became very clear during our fly-on-the-wall observations, where we saw students struggle with the cluttered interface "Lecturer had a mouse slip/mode slip trying to access the intersection node settings". Students also could not recall basics steps from previous class sessions. Further showing the steep learning curve which comes with Synchro
+- **Evidence:** Synchro top ribbon had countless icons, along with dense setting widows and excel style forms with confusing abbreviations such as "EBL". "Changing street names Cluster of options in lane settings made it hard to find the option"
+- **Design influence:** This insight became our primary focus for our redesign. It further supported our core goal of simplifying the UI and led to our proposal of consolidating various settings windows into one panel. The default settings would simplify all the settings to just the necessary features and reduce clutter for a beginner without sacrificing the familiarity of the advanced user with the advanced options.
 
-#### **[Insight 2 Title/Statement]**
-- **How it emerged:** [From users, critique, testing, etc.]
-- **Evidence:** [Visuals, evidence, or stories]
-- **Design influence:** [How this influenced your final design]
+#### **Disconnected Workflows from User's understanding**
+- **How it emerged:** During observation we saw that to preform a single task such as defining a intersection users had to access multiple disconnected windows (Lane, Volume, Timing). There was the use of "hack fixes" to fix this issue such as using a dummy node to merge lanes. Highlighting that Synchro does not have a streamlined option leading users to use such "hacks".
+- **Evidence:** A student asked, "Why is the receiving lane not being adjusted when we change the incoming lane?" Further highlighting an expecation that Synchro doesnt not understand basic logical road connections. The Lecturer confirmed that Synchro does not do this automatically and suggested adding a pop-up suggestion as a potential fix. "can either give a popup option to update other lanes when changing lane types, or revert to manual changing Important"
+- **Design influence:** This played a key part in our final design of the intersection settings panel, in which we kept all related settings in a single context. It also inspired for an option to automatically pushes changes through connected intersections for incoming and outgoing lanes.
 
-#### **[Insight 3 Title/Statement]**
-- **How it emerged:** [From users, critique, testing, etc.]
-- **Evidence:** [Visuals, evidence, or stories]
-- **Design influence:** [How this influenced your final design]
+#### **Poor Grouping Hides Essential Functions**
+- **How it emerged:** During one of our observations, we saw students have a "eureka" moment when they discovered that a critical "move" tool was hidden in a right-click context menu. Aswell as the "Scenario Manager," being an essential feature for managment of simulations, was a small, low-opacity tab on the side of the screen. Making it very difficult to spot.
+- **Evidence:** Synchro has a search bar which new users assumed was a global tool search bar but it was only used for searching map addresses, which was not indicated or labled anywhere on the UI. Leading the constant confusion and frustration.
+- **Design influence:** This insight led to our proposal to add a global search feature which would allow users to find tools quickly. Making tools easy to find and not hidden behind obscure menus or hard to spot UI elements.
 
 ## Iterative Design and Key Insights
 
