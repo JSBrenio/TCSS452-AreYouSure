@@ -130,11 +130,11 @@ But despite that, we were still able to obtain valuable data and insight.
 - **Paper Prototyping → Usability Testing**
 When we started working on paper prototype, we tried our best to focus on simplifying the lane parameters and making it easy for the user to be able to not feel overwhelmed with the parameters. We also kept in mind that we were also trying to make adding lanes easier and simpler for the users. Also, during the making of our paper prototype we tried making the icons drawings as distinguishable as we could so the user did not need to question what certain icons did. During our usability testing, we found that the participants found it difficult to know what certain buttons did and they thought adding a description should be necessary so that things would not be confusing. We did find that the participants did find making intersections easier, however, adding lanes button was not clear to the particpant. We also found that the participants were having a hard time when lane parameter menu was selected.
 - **Digital Mockups → Heuristic Testing**
-From our iterated paper prototype, we moved into creating digital mockups in Figma. At the time of heuristic testing, only one digital prototype was available—focused on the redesigned process for creating lanes and intersections, as well as adjusting lane parameters. This round of testing revealed several usability issues:
-  It was unclear how to add a lane
-  Users wanted more flexibility in selecting entire roads, not just intersections
-  The purpose of the middle button was ambiguous
-  There was a desire to view all lane parameters at once
+From our iterated paper prototype, we moved into creating digital mockups in Figma. At the time of heuristic testing, only one digital prototype was available, focused on the redesigned process for creating lanes and intersections, as well as adjusting lane parameters. This round of testing revealed several usability issues:
+  - It was unclear how to add a lane
+  - Users wanted more flexibility in selecting entire roads, not just intersections
+  - The purpose of the middle button was ambiguous
+  - There was a desire to view all lane parameters at once
 - **Rationale/Reflections:** 
 What this process revealed is that it is not easy to design a product, as users could find it difficult to know what certain things do. Where we thought the user would have an easier time doing a certain task, it was actually difficult for them to do. This type of feedback helped us fix our designs so that users have an easier time doing tasks. This iterative process also revealed that users like simplicity, descriptions to help understand what certain buttons do, and also visual clarity. These types of feedback helped us make our final design easier to use. 
 
